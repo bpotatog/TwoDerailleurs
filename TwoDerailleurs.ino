@@ -119,7 +119,7 @@ void loop() {
                 OCR2B = 14;
                 delay(1500);
                 digitalWrite(12, LOW);
-                delay(100);
+                delay(500);
                 digitalWrite(2, LOW);
                 Serial.write("f@@1"); // inform smart phone
             }
