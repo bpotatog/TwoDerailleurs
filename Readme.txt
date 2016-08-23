@@ -1,6 +1,6 @@
-* communication between android app and arduino
-- via bluetooth
-- message format
+* Communication between android app and arduino
+- Via bluetooth (BT module hc-05)
+- Message format
 	-- 4 bytes per message
 	-- e.g.     f  @  @  1
 	--          -  -  -  -
